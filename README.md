@@ -33,6 +33,7 @@ There are many plugins to ensure the server runs smoothly. They are only server-
 - Luckperms https://modrinth.com/plugin/luckperms
 - PvP Manager https://modrinth.com/plugin/pvpmanager
 - Vault https://www.spigotmc.org/resources/vault.34315/
+- ViaVersion https://modrinth.com/plugin/viaversion
 - School SMP (see below)
 ## School SMP Plugin
 The School SMP Plugin has been developed specificly for use in this server. Its features are:
