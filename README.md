@@ -45,7 +45,9 @@ The School SMP Plugin works with Better Teams and gives players an option to mak
 
 Players in peaceful teams can also not be damaged by these methods from other players.
 
-The team owner has the permission to change the peaceful-ness status of the team with `/team peaceful <true/false>`. This can only be changed once per week, so a PvP team cannot switch to peaceful mode when they are being attacked and vise-versa. If a team is found to be strategically switching between peaceful and PvP, they will be permanently locked in one or the other.
+The team owner has the permission to change the peaceful-ness status of the team with `/setteampeaceful <true/false>`. This can only be changed once per week, so a PvP team cannot switch to peaceful mode when they are being attacked and vise-versa. If a team is found to be strategically switching between peaceful and PvP, they will be permanently locked in one or the other.
+
+You can check the peacefulness status of your team with `/isteampeaceful`. You can also check the peacefulness status of another team with `/isteampeaceful "TeamName"`.
 
 **NOTE:** peaceful players are not actually in peaceful mode: ie. they still take damage from mobs, fall damage and hunger.
 
